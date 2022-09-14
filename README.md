@@ -1,9 +1,6 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**Pheak02/Pheak02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - I'm a undergraduated student in Software Engineering and IT Engineering at E2STEM and RUPP.
 - 🔭 I’m currently working as a Software Developer, intern at Khalibre, Cambodia.
