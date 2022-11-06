@@ -10,4 +10,4 @@
 - 📫 How to reach me: saingsopheak01@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Like making self-conversation
-- I'm interest in programming, graphical design, education, agriculture, and astronomy.
+- I'm interest in programming, education, agriculture, and astronomy, and STEM
