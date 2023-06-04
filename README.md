@@ -1,13 +1,6 @@
  Hi there 👋
 
+I'm Sopheak from Cambodia, currently an undergraduated student in Software Engineering and IT Engineering and am doing an internship at a software company as a junior developer.
 
 
-- I'm a undergraduated student in Software Engineering and IT Engineering at E2STEM and RUPP.
-- 🔭 I’m currently working as a Software Developer, intern at Khalibre, Cambodia.
-- 🌱 I’m currently learning Python, C, C#, C++, and HTML
-- 🤔 I’m looking for help with Software Development
-- 💬 Ask me about anything to get to know each other
-- 📫 How to reach me: saingsopheak01@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Like making self-conversation
-- I'm interest in programming, education, agriculture, and astronomy, and STEM
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopheak)](https://github.com/anuraghazra/github-readme-stats)
