@@ -11,11 +11,6 @@ But all in all, I wish to uphold my community with the skill and knowledge I hav
 
 - 🔭 I’m currently a junior software developer intern at a company. 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pheak02" alt="pheak02" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
