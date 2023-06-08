@@ -4,7 +4,7 @@
 
 I'm an undergraduate student in Software Engineering and IT Engineering.
 I'm interest in many things and wanted to involve in many fields counting from education, agriculture, tech, to astronomy.
-But all in all, <strong I wish to uphold my community with the skill and knowledge I have.</strong>
+But all in all, <strong> I wish to uphold my community with the skill and knowledge I have.</strong>
 
 - 🔭 I’m currently a junior software developer intern at a company. 
 
