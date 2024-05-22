@@ -1,5 +1,5 @@
 ### Hi👋, I'm Sopheak Saing
-#### learn();    code();    fixBug();    reapeat();
+
 ![learn()  => code() => fix () => reapeat()](https://res.cloudinary.com/dbuzmmqyh/image/upload/v1685897118/pheakTrashBin_dxheqa.jpg)
 
 I'm an undergraduate student in Software Engineering and IT Engineering.
