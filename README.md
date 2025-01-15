@@ -12,8 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pheak02&show_icons=true&locale=en" alt="pheak02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pheak02&" alt="pheak02" /></p>
-
 
 
 
