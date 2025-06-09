@@ -1,6 +1,6 @@
 ### Hi👋, I'm Sopheak Saing
 
-- 🔭 I’m currently a junior software developer intern at a company in Cambodia. 
+- 🔭 I’m currently a junior software developer at a company in Cambodia. 
 
 <p align="left">
 </p>
