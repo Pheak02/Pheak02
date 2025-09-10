@@ -14,6 +14,13 @@
 
 ---
 
+## 🎯 Currently Learning & Fun Facts  
+![Currently Learning Vue 3](https://img.shields.io/badge/Currently%20Learning-Vue%203-42b883?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Currently Learning TypeScript](https://img.shields.io/badge/Currently%20Learning-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20debug%20at%202%20AM%20😅-orange?style=for-the-badge)  
+
+---
+
 ## 🛠️ Languages & Tools  
 <p align="left"> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
@@ -57,6 +64,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 LinkedIn([https://www.linkedin.com/](https://www.linkedin.com/in/sopheaksaing/)
-- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://github.com/Pheak02))
-- 📧 Email: sopheak.saing@khalibre.com or saingsopheak02@gmail.com
+- 💼 [LinkedIn][(https://www.linkedin.com/](https://www.linkedin.com/in/sopheaksaing/)) *(Add your profile link)*  
+- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://yelpcamp-fdud.onrender.com/)) *(If you have one)*  
+- 📧 Email: sopheak.saing@khalibre.com / saingsopheak02@gmail.com
+- [Instagram](https://www.instagram.com/__whoami01/) 
+
+[![Let's Code Together](https://img.shields.io/badge/Let's%20Code%20Together-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pheak02?tab=repositories)  
