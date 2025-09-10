@@ -1,4 +1,6 @@
 # Hi there 👋, I'm Sopheak Saing  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+the+Universe+of+Code;Parallel+Worlds+of+Creativity;Junior+Software+Developer+from+Cambodia)](https://git.io/typing-svg)
+
 
 🌱 A curious soul who loves to learn, build, and explore the endless possibilities of technology.  
 💻 Currently working as a **Junior Software Developer** in Cambodia.  
