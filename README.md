@@ -62,7 +62,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn][(https://www.linkedin.com/](https://www.linkedin.com/in/sopheaksaing/))
+- 💼 [LinkedIn][(https://www.linkedin.com/](https://www.linkedin.com/in/sopheaksaing/)
 - 🌐 [Portfolio/Website]([https://yourwebsite.com](https://yelpcamp-fdud.onrender.com/))
 - 📧 Email: sopheak.saing@khalibre.com / saingsopheak02@gmail.com
 - [Instagram](https://www.instagram.com/__whoami01/) 
