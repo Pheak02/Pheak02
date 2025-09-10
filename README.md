@@ -57,6 +57,6 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your profile link)*  
-- 🌐 [Portfolio/Website](https://yourwebsite.com) *(If you have one)*  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sopheaksaing/)
+- 🌐 [Portfolio/Website]([https://yourwebsite.com](https://github.com/Pheak02))
+- 📧 Email: sopheak.saing@khalibre.com or saingsopheak02@gmail.com
