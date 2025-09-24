@@ -5,8 +5,8 @@
 🌱 A curious soul who loves to learn, build, and explore the endless possibilities of technology.  
 💻 Currently working as a **Junior Software Developer** in Cambodia.  
 🚀 Passionate about **full-stack web development, clean code, and problem-solving**. 
-🛠️ Skilled in Vue 3 (Composition API), TypeScript, and Java
-✨ My goal: keep improving every day and build things that make life easier & better. 
+🛠️ Skilled in Vue 3 (Composition API), TypeScript, and Java.  
+✨ My goal: keep improving every day and build things that make life easier & better.  
 
 ---
 
